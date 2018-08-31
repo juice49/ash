@@ -1,2 +1,2 @@
 FROM busybox
-RUN mkdir /public && echo "<h1>The time is $(date)</h1>" > /public/index.html
+RUN mkdir /public && echo "the ringing in my ears is from another life" > /public/index.html
